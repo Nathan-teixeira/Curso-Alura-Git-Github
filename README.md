@@ -4,4 +4,4 @@
 
 para rodar o projeto por favor digite:
 
-`` npm install react ``
+`` node app.js ``
